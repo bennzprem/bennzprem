@@ -76,12 +76,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bennzprem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
 <h2 align="left">Socials</h2>
 
 ###
@@ -95,7 +89,18 @@
 ###
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=bennzprem&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bennzprem.bennzprem&"  />
+</div>
+
+###
+
+<div align="center">
 </div>
 
 ###
